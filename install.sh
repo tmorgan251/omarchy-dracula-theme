@@ -2,7 +2,7 @@ echo "Creating file directory"
 mkdir -p ~/.local/share/omarchy/themes/dracula/
 
 echo "Moving files"
-mv ~/.local/share/omarchy/themes/dracula/
+mv . ~/.local/share/omarchy/themes/dracula/
 echo "Files have been moved."
 
 echo "Creating symlinks"
